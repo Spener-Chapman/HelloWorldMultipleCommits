@@ -22,6 +22,13 @@ namespace HelloWorldMultipleCommits
             Console.WriteLine("Press any key to continue");
 
             Console.ReadKey(true);
+
+            Console.WriteLine();
+            Console.WriteLine("Interesting how people were able to create these tings eh?");
+            Console.WriteLine();
+            Console.WriteLine("Press any key to continue");
+
+            Console.ReadKey(true);
         }
     }
 }
