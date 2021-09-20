@@ -24,7 +24,7 @@ namespace HelloWorldMultipleCommits
             Console.ReadKey(true);
 
             Console.WriteLine();
-            Console.WriteLine("Interesting how people were able to create these tings eh?");
+            Console.WriteLine("Interesting how people were able to create these things eh?");
             Console.WriteLine();
             Console.WriteLine("Press any key to continue");
 
@@ -34,6 +34,13 @@ namespace HelloWorldMultipleCommits
             Console.WriteLine("This is probably getting repetitive...");
             Console.WriteLine();
             Console.WriteLine("Press any key to continue");
+
+            Console.ReadKey(true);
+
+            Console.WriteLine();
+            Console.WriteLine("I'll let u head out then, have a great day! ^^");
+            Console.WriteLine();
+            Console.WriteLine("Press any key to leave");
 
             Console.ReadKey(true);
         }
