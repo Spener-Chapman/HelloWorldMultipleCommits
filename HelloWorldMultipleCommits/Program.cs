@@ -29,6 +29,13 @@ namespace HelloWorldMultipleCommits
             Console.WriteLine("Press any key to continue");
 
             Console.ReadKey(true);
+
+            Console.WriteLine();
+            Console.WriteLine("This is probably getting repetitive...");
+            Console.WriteLine();
+            Console.WriteLine("Press any key to continue");
+
+            Console.ReadKey(true);
         }
     }
 }
