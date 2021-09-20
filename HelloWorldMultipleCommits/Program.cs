@@ -15,6 +15,13 @@ namespace HelloWorldMultipleCommits
             Console.WriteLine("Press any key to continue");
 
             Console.ReadKey(true);
+
+            Console.WriteLine();
+            Console.WriteLine("It's nice to meet you");
+            Console.WriteLine();
+            Console.WriteLine("Press any key to continue");
+
+            Console.ReadKey(true);
         }
     }
 }
